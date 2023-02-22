@@ -6,7 +6,7 @@ Here is the PDF version of a series of interactive visualizations. Data transfor
 
 This version does not constitute the final version of the project. It is being updated day by day.
 
-New sheets and dimensions are expected to be added to visualizations.
+New sheets and dimensions are expected to be added to visualizations. 
 
 
 ## Data
